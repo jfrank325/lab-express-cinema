@@ -1,29 +1,23 @@
 body {
   padding: 50px;
-  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
-}
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00b7ff;
-}
+  color: #00b7ff; }
 
 .container {
-  display: flex;
-}
+  display: flex; }
 
 .container img {
-  padding-right: 30px;
-}
+  padding-right: 30px; }
 
 .info {
   display: flex;
-  flex-direction: column;
-}
+  flex-direction: column; }
 
 .movie-container {
   display: flex;
-  flex-wrap: wrap;
-}
+  flex-wrap: wrap; }
 
 .movie {
   display: flex;
@@ -32,9 +26,9 @@ a {
   padding: 80px 140px;
   margin-bottom: 80px;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .movie a {
-  text-decoration: none;
-}
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
